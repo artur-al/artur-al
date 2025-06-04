@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/artur-al/artur-al/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/artur-al/artur-al/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
@@ -8,7 +8,7 @@
 </div>
 
 ###
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artur-al/artur-al/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/artur-al/artur-al/output/pacman-contribution-graph.svg">
@@ -16,7 +16,7 @@
 </picture>
 
 ###
-
+-->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
