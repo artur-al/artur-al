@@ -17,7 +17,6 @@
 
 ###
 -->
-<img src="https://raw.githubusercontent.com/artur-al/artur-al/output/snake.svg" alt="Snake animation" />
 
 ###
 
